@@ -1,5 +1,3 @@
-# Practical-12
-
 Middleware Pipeline Architecture Demo (Express.js)
 This project demonstrates a production-grade Express middleware pipeline where middleware order matters. It showcases how to properly design a secure, observable, and robust API using a single-file architecture.
 
